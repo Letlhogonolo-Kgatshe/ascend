@@ -1,0 +1,193 @@
+{
+  "events": [
+    {
+      "a": "photo",
+      "blurb": "A world championship running all week. Practise indoor sports shots and tricky arena lighting.",
+      "end": "2026-10-31",
+      "id": "ibf-world-championship-2026",
+      "start": "2026-10-27",
+      "title": "IBF World Championship",
+      "url": "https://eventsincapetown.com/events/ibf-world-championship/",
+      "venue": "Bellville Velodrome",
+      "when": "Until Sat 31 Oct · 10:00"
+    },
+    {
+      "a": "photo",
+      "blurb": "Test cricket at Newlands. Long days give time to practise telephoto framing and timing.",
+      "end": "2026-10-30",
+      "id": "proteas-australia-test-2026",
+      "start": "2026-10-28",
+      "title": "Proteas Men vs Australia",
+      "url": "https://eventsincapetown.com/events/proteas-men-vs-australia-test-2026/",
+      "venue": "Newlands Cricket Ground",
+      "when": "Until Fri 30 Oct · 10:00"
+    },
+    {
+      "a": "photo",
+      "blurb": "The film, animation, music and entertainment industry week. See how creatives light, frame and pitch their work.",
+      "end": "2026-10-30",
+      "id": "fame-week-2026",
+      "start": "2026-10-30",
+      "title": "FAME Week Africa",
+      "url": "https://eventsincapetown.com/events/fame-week-africa-2026/",
+      "venue": "CTICC",
+      "when": "Fri 30 Oct · 18:00"
+    },
+    {
+      "a": "social",
+      "blurb": "A Halloween party by the beach. Dress up and meet people.",
+      "end": "2026-10-31",
+      "id": "halloween-cabo-beach-2026",
+      "start": "2026-10-31",
+      "title": "Halloween",
+      "url": "https://eventsincapetown.com/events/halloween-30-october-2026/",
+      "venue": "Cabo Beach",
+      "when": "Sat 31 Oct · 14:45"
+    },
+    {
+      "a": "photo",
+      "blurb": "Rugby under the mountain. Bring a camera and practise freezing fast action.",
+      "end": "2026-10-31",
+      "id": "stormers-ulster-2026",
+      "start": "2026-10-31",
+      "title": "DHL Stormers vs Ulster",
+      "url": "https://eventsincapetown.com/events/dhl-stormers-vs-ulster-2026/",
+      "venue": "DHL Stadium",
+      "when": "Sat 31 Oct · 15:00"
+    },
+    {
+      "a": "social",
+      "blurb": "The second Test of the series. A good day out with friends.",
+      "end": "2026-11-01",
+      "id": "bok-women-ireland-2026",
+      "start": "2026-10-31",
+      "title": "Springbok Women vs Ireland",
+      "url": "https://eventsincapetown.com/events/springbok-women-vs-ireland-2nd-test/",
+      "venue": "Athlone Stadium",
+      "when": "31 Oct – 1 Nov · 16:00"
+    },
+    {
+      "a": "social",
+      "blurb": "A Cape tradition of voices and harmony. Check the listing for times.",
+      "end": "2026-11-01",
+      "id": "cape-malay-choir-2026",
+      "start": "2026-10-31",
+      "title": "Cape Malay Choir Board Choral Competition",
+      "url": "https://eventsincapetown.com/events/cape-malay-choir-board-choral-competition-2/",
+      "venue": "University of the Western Cape",
+      "when": "Weekend of 31 Oct"
+    },
+    {
+      "a": "social",
+      "blurb": "A live jazz album launch. Ticketed, so check the post for details.",
+      "end": "2026-11-01",
+      "id": "ukholo-launch-2026",
+      "start": "2026-11-01",
+      "title": "Sisonke Xonti: uKholo launch",
+      "url": "https://www.instagram.com/p/DfCfU0FAt33/",
+      "venue": "Homecoming Centre",
+      "when": "Sun 1 Nov"
+    },
+    {
+      "a": "photo",
+      "blurb": "Boards, brands and surf culture. Practise product and action photography.",
+      "end": "2026-11-08",
+      "id": "surf-expo-2026",
+      "start": "2026-11-06",
+      "title": "Surf Expo Africa",
+      "url": "https://www.cticc.co.za/whats_on_events/surf-expo-africa-2/",
+      "venue": "CTICC",
+      "when": "Fri 6 – Sun 8 Nov"
+    },
+    {
+      "a": "finance",
+      "blurb": "Founders, funders and policy on building businesses in Africa. Check how to register.",
+      "end": "2026-11-11",
+      "id": "awief-2026",
+      "start": "2026-11-10",
+      "title": "Africa Women Innovation & Entrepreneurship Forum",
+      "url": "https://www.cticc.co.za/whats_on_events/12th-africa-women-innovation-entrepreneurship-forum-awief2026/",
+      "venue": "CTICC",
+      "when": "Tue 10 – Wed 11 Nov"
+    },
+    {
+      "a": "data",
+      "blurb": "The continent's big tech gathering. Go to the data and AI talks and network for analyst roles.",
+      "end": "2026-11-19",
+      "id": "africa-tech-festival-2026",
+      "start": "2026-11-17",
+      "title": "Africa Tech Festival",
+      "url": "https://www.cticc.co.za/whats_on_events/africa-tech-festival-3/",
+      "venue": "CTICC",
+      "when": "Tue 17 – Thu 19 Nov"
+    },
+    {
+      "a": "finance",
+      "blurb": "Central banks and the cash industry on the future of money. Likely industry-only, so check access first.",
+      "end": "2026-12-02",
+      "id": "cash-cycle-2026",
+      "start": "2026-11-30",
+      "title": "EMEA Cash Cycle Seminar",
+      "url": "https://www.cticc.co.za/whats_on_events/emea-cash-cycle-seminar/",
+      "venue": "CTICC",
+      "when": "Mon 30 Nov – Wed 2 Dec"
+    },
+    {
+      "a": "social",
+      "blurb": "A community evening of lights in support of the hospice. Good low-light photo practice too.",
+      "end": "2026-12-06",
+      "id": "st-lukes-lights-2026",
+      "start": "2026-12-06",
+      "title": "St Luke's Tree of Lights",
+      "url": "https://whatsonincapetown.com/tree-of-lights-st-lukes-hospice/",
+      "venue": "St Luke's Hospice, Kenilworth",
+      "when": "Sun 6 Dec"
+    },
+    {
+      "a": "textile",
+      "blurb": "An immersive exhibition of Indigenous art. Study how it uses pattern, material and colour.",
+      "end": "2027-10-31",
+      "id": "we-are-what-remains",
+      "start": "",
+      "title": "We Are What Remains",
+      "url": "https://whatsonincapetown.com/we-are-what-remains-french-institute/",
+      "venue": "West Coast",
+      "when": "On now · until Oct 2027"
+    },
+    {
+      "a": "textile",
+      "blurb": "Hunt for garments to upcycle and fabrics for your swatch book.",
+      "end": "",
+      "id": "late-night-thrift-obs",
+      "start": "",
+      "title": "Late Night Thrift in Observatory",
+      "url": "https://whatsonincapetown.com/late-night-thrift-in-observatory/",
+      "venue": "Observatory",
+      "when": "See the listing for the next date"
+    },
+    {
+      "a": "photo",
+      "blurb": "Night photography practice: long exposures and city lights.",
+      "end": "",
+      "id": "festive-lights-2026",
+      "start": "",
+      "title": "Cape Town Festive Lights Switch-On",
+      "url": "https://whatsonincapetown.com/festive-lights-switch-on/",
+      "venue": "Cape Town",
+      "when": "Festive season · see the listing"
+    },
+    {
+      "a": "textile",
+      "blurb": "Makers' markets across the city. See how local designers finish and price their work.",
+      "end": "",
+      "id": "festive-markets-2026",
+      "start": "",
+      "title": "Festive markets",
+      "url": "https://whatsonincapetown.com/festive-markets-to-enjoy-this-christmas/",
+      "venue": "Around Cape Town",
+      "when": "December · see the listing"
+    }
+  ],
+  "sources": "CTICC, Events in Cape Town, What's On in Cape Town",
+  "updated": "2026-10-29"
+}
